@@ -1,81 +1,1436 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "id": 1, "Comedores": "La Fe en Cristo", "Comedore_1": "Jose Colalillo", "Comedore_3": "Chorroarin 1010", "Comedore_4": 1535387947.0, "Comedore_5": 60.0, "Comedore_6": "Copa de Leche\/Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.348054741384786, -34.72540061202362 ] } },
-{ "type": "Feature", "properties": { "id": 2, "Comedores": "Luz del Mundo", "Comedore_1": "Salomon Aguilera", "Comedore_3": "R.Alfonsin 5232", "Comedore_4": 0.0, "Comedore_5": 50.0, "Comedore_6": "Copa de Leche\/Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.340264226862566, -34.729971966717258 ] } },
-{ "type": "Feature", "properties": { "id": 3, "Comedores": "Manos Solidarias", "Comedore_1": "Gimenez Marina", "Comedore_3": "Dto.Alvarez y Rondeau", "Comedore_4": 1537667163.0, "Comedore_5": 65.0, "Comedore_6": "Copa de Leche\/Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.34799314101523, -34.723912219151579 ] } },
-{ "type": "Feature", "properties": { "id": 4, "Comedores": "Caritas Felices", "Comedore_1": "Nieves Yolanda", "Comedore_3": "Ituzaingo 3364", "Comedore_4": 42893570.0, "Comedore_5": 80.0, "Comedore_6": "Copa de Leche\/Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.364691292233672, -34.723309487069301 ] } },
-{ "type": "Feature", "properties": { "id": 5, "Comedores": "Ctro Crist es Bueno", "Comedore_1": "Mesa Marta", "Comedore_3": "Kloosterman 436", "Comedore_4": 0.0, "Comedore_5": 60.0, "Comedore_6": "Copa de Leche\/Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.342035943023781, -34.72275742177267 ] } },
-{ "type": "Feature", "properties": { "id": 6, "Comedores": "NiÃ¯Â¿Â½os Felices de Felisa", "Comedore_1": "Felisa Aguilar", "Comedore_3": "Posadas 543", "Comedore_4": 42894946.0, "Comedore_5": 40.0, "Comedore_6": "Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.356311005884514, -34.711845012143044 ] } },
-{ "type": "Feature", "properties": { "id": 7, "Comedores": "Munizaga", "Comedore_1": "Reinaldo Vallejos", "Comedore_3": "Arias 2988", "Comedore_4": 20503640.0, "Comedore_5": 30.0, "Comedore_6": "Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.373738758816572, -34.723688879960349 ] } },
-{ "type": "Feature", "properties": { "id": 8, "Comedores": "Trabajadores Combativos", "Comedore_1": "Ramirez Alejandra", "Comedore_3": "Cazon 2046", "Comedore_4": 1564953110.0, "Comedore_5": 60.0, "Comedore_6": "comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.353867650812603, -34.735075530703824 ] } },
-{ "type": "Feature", "properties": { "id": 9, "Comedores": "Ctro Norma pla\/Quebracho", "Comedore_1": "Tejerina", "Comedore_3": "Guido 5360", "Comedore_4": 0.0, "Comedore_5": 60.0, "Comedore_6": "Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.343649984148023, -34.734454558578705 ] } },
-{ "type": "Feature", "properties": { "id": 10, "Comedores": "8 de Octubre\/Quebracho", "Comedore_1": "Garay Eugenio", "Comedore_3": "Victor Hugo 301", "Comedore_4": 0.0, "Comedore_5": 60.0, "Comedore_6": "Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.336308569572125, -34.72634138752354 ] } },
-{ "type": "Feature", "properties": { "id": 11, "Comedores": "CTD Anibal Veron\/Quebracho", "Comedore_1": "Cristian Benitez", "Comedore_3": "Pintos 245 Esq Mendez", "Comedore_4": 0.0, "Comedore_5": 60.0, "Comedore_6": "Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.353134806424677, -34.723602949091841 ] } },
-{ "type": "Feature", "properties": { "id": 12, "Comedores": "Rincon de los Abuelos\/ Quebracho", "Comedore_1": "Galarza Roberto\/Aida Garcia", "Comedore_3": "Monasterio 631", "Comedore_4": 20094858.0, "Comedore_5": 60.0, "Comedore_6": "Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.341584400629948, -34.726099808289469 ] } },
-{ "type": "Feature", "properties": { "id": 13, "Comedores": "Monica Ororbio \/Quebracho", "Comedore_1": "Pablo Chamorro", "Comedore_3": "Pitagoras 5000", "Comedore_4": 1540369505.0, "Comedore_5": 60.0, "Comedore_6": "comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.34895824194863, -34.733048859277162 ] } },
-{ "type": "Feature", "properties": { "id": 14, "Comedores": "La Sonrisa de un niÃ¯Â¿Â½o ( La China)", "Comedore_1": "Ramona Maidana", "Comedore_3": "Dto Alvarez 4076", "Comedore_4": 42207858.0, "Comedore_5": 0.0, "Comedore_6": "Copa de Leche\/Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.348967969971469, -34.720616446077543 ] } },
-{ "type": "Feature", "properties": { "id": 15, "Comedores": "Dias Felices", "Comedore_1": "Maria Coronel\/ Duete Raimunda", "Comedore_3": "Corvalan 1315", "Comedore_4": 1552593662.0, "Comedore_5": 60.0, "Comedore_6": "Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.353485015247173, -34.725940917249631 ] } },
-{ "type": "Feature", "properties": { "id": 16, "Comedores": "Solidaridad", "Comedore_1": "Garcete Irma", "Comedore_3": "9 de Julio 5100", "Comedore_4": 0.0, "Comedore_5": 70.0, "Comedore_6": "Copa de Leche\/Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.350410960027261, -34.73673253726222 ] } },
-{ "type": "Feature", "properties": { "id": 17, "Comedores": "Taller Protegido", "Comedore_1": "Soriani", "Comedore_3": "Galvez 1179", "Comedore_4": 42257669.0, "Comedore_5": 40.0, "Comedore_6": "comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.386774309432738, -34.697869085984841 ] } },
-{ "type": "Feature", "properties": { "id": 18, "Comedores": "Mov 29 de Mayo", "Comedore_1": "Guana Eulogia", "Comedore_3": "Yapeyu 351", "Comedore_4": 1536039602.0, "Comedore_5": 60.0, "Comedore_6": "Copa de Leche\/Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.335650306692727, -34.727289869751175 ] } },
-{ "type": "Feature", "properties": { "id": 19, "Comedores": "De Pie la Escuelita", "Comedore_1": "Galarza Zunilda", "Comedore_3": "1 de mayo 425", "Comedore_4": 1522447387.0, "Comedore_5": 35.0, "Comedore_6": "Copa de Leche" }, "geometry": { "type": "Point", "coordinates": [ -58.410332338096033, -34.723829936291601 ] } },
-{ "type": "Feature", "properties": { "id": 20, "Comedores": "Evita Pueblo", "Comedore_1": "Irazabal Mirta", "Comedore_3": "Boqueron y DÃ¯Â¿Â½ elia", "Comedore_4": 1536044156.0, "Comedore_5": 100.0, "Comedore_6": "Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.416872812124076, -34.683338662524385 ] } },
-{ "type": "Feature", "properties": { "id": 21, "Comedores": "Mov.La dignidad\/Solcito de Jardin", "Comedore_1": "Cruz Melina", "Comedore_3": "Maza 3646 y Valentinas", "Comedore_4": 1561674833.0, "Comedore_5": 100.0, "Comedore_6": "Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.428990685918244, -34.678724337020171 ] } },
-{ "type": "Feature", "properties": { "id": 23, "Comedores": "Los Inquietos de Acuba", "Comedore_1": "C.C Maidana Olga", "Comedore_3": "Boqueron y Hernandarias", "Comedore_4": 1525364582.0, "Comedore_5": 100.0, "Comedore_6": "Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.435599256106407, -34.694608576993652 ] } },
-{ "type": "Feature", "properties": { "id": 25, "Comedores": "Villa Talleres", "Comedore_1": "Jimenes Margarita", "Comedore_3": "20 de Septiembre 4188", "Comedore_4": 42493054.0, "Comedore_5": 110.0, "Comedore_6": "Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.402637472023443, -34.720488360443341 ] } },
-{ "type": "Feature", "properties": { "id": 26, "Comedores": "Crecer Luchando", "Comedore_1": "Fragioli Gladys", "Comedore_3": "Salcedo 1026", "Comedore_4": 42894756.0, "Comedore_5": 47.0, "Comedore_6": "Copa de Leche" }, "geometry": { "type": "Point", "coordinates": [ -58.342070801772437, -34.730534165370941 ] } },
-{ "type": "Feature", "properties": { "id": 27, "Comedores": "Mov 29 de Mayo", "Comedore_1": "Roberto Grau", "Comedore_3": "Purita 2658", "Comedore_4": 1558822744.0, "Comedore_5": 50.0, "Comedore_6": "Copa de Leche" }, "geometry": { "type": "Point", "coordinates": [ -58.377957478058349, -34.72208699886469 ] } },
-{ "type": "Feature", "properties": { "id": 28, "Comedores": "Nuestro Barrio", "Comedore_1": "Perla Lorenzo", "Comedore_3": "Ayacucho 4007", "Comedore_4": 152275784.0, "Comedore_5": 50.0, "Comedore_6": "Copa de Leche\/ ESPERA" }, "geometry": { "type": "Point", "coordinates": [ -58.352123092048636, -34.722602584075652 ] } },
-{ "type": "Feature", "properties": { "id": 29, "Comedores": "Villa Sapito", "Comedore_1": "Amarillo Daniel", "Comedore_3": "Bustamante 2280", "Comedore_4": 1550984238.0, "Comedore_5": 40.0, "Comedore_6": "Copa de Leche" }, "geometry": { "type": "Point", "coordinates": [ -58.363553518894896, -34.702215890860749 ] } },
-{ "type": "Feature", "properties": { "id": 30, "Comedores": "FTC 29  de Mayo", "Comedore_1": "Amunizada", "Comedore_3": "Cazon 1016", "Comedore_4": 0.0, "Comedore_5": 40.0, "Comedore_6": "copa de leche" }, "geometry": { "type": "Point", "coordinates": [ -58.346079939460054, -34.728420640810654 ] } },
-{ "type": "Feature", "properties": { "id": 31, "Comedores": "C.C 7 de Mayo", "Comedore_1": "Herrera Graciela", "Comedore_3": "C.Uruguayo 2795", "Comedore_4": 1567053659.0, "Comedore_5": 90.0, "Comedore_6": "comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.373035532485751, -34.731295513793292 ] } },
-{ "type": "Feature", "properties": { "id": 32, "Comedores": "Junta Vec.Por Lanus\/Villa Pora", "Comedore_1": "Aguirre Cesar", "Comedore_3": "bueras 3047", "Comedore_4": 1537332307.0, "Comedore_5": 80.0, "Comedore_6": "Copa de leche" }, "geometry": { "type": "Point", "coordinates": [ -58.357743600764053, -34.710686530579174 ] } },
-{ "type": "Feature", "properties": { "id": 33, "Comedores": "Villa Pora", "Comedore_1": "Reyna", "Comedore_3": "bueras 3096", "Comedore_4": 20471847.0, "Comedore_5": 80.0, "Comedore_6": "comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.357335086276493, -34.710741890019086 ] } },
-{ "type": "Feature", "properties": { "id": 35, "Comedores": "Polideportivo", "Comedore_1": "Raquel herrero\/Gustavo", "Comedore_3": "Dto Alvarez Y Chilavert", "Comedore_4": 1536109282.0, "Comedore_5": 100.0, "Comedore_6": "Copa de Leche\/Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.346963781552304, -34.725721390878796 ] } },
-{ "type": "Feature", "properties": { "id": 36, "Comedores": "San jose Obrero", "Comedore_1": "Rodriguez Julia", "Comedore_3": "Grecia 4580", "Comedore_4": 1568878197.0, "Comedore_5": 0.0, "Comedore_6": "Copa de Leche\/Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.427976616449385, -34.694863207578862 ] } },
-{ "type": "Feature", "properties": { "id": 38, "Comedores": "3 De febrero", "Comedore_1": "Coria Walter", "Comedore_3": "Ruiz de OcaÃ¯Â¿Â½a 4038", "Comedore_4": 42762277.0, "Comedore_5": 96.0, "Comedore_6": "Copa de Leche" }, "geometry": { "type": "Point", "coordinates": [ -58.417730208251626, -34.719344215769922 ] } },
-{ "type": "Feature", "properties": { "id": 39, "Comedores": "Nueva Vida", "Comedore_1": "Brandan Estela", "Comedore_3": "Ugarte 3926", "Comedore_4": 42673379.0, "Comedore_5": 100.0, "Comedore_6": "Copa de Leche\/Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.415121659998334, -34.720105574613676 ] } },
-{ "type": "Feature", "properties": { "id": 40, "Comedores": "Rosa Villalba", "Comedore_1": "Martin  Villalba", "Comedore_3": "3 de Febrero 3443", "Comedore_4": 42763269.0, "Comedore_5": 80.0, "Comedore_6": "Copa de Leche" }, "geometry": { "type": "Point", "coordinates": [ -58.406984242652484, -34.720099768015196 ] } },
-{ "type": "Feature", "properties": { "id": 41, "Comedores": "Coordinacion  Barrial", "Comedore_1": "Galvan Fransisca", "Comedore_3": "Murature 2961\/Chubut 2977", "Comedore_4": 1565468882.0, "Comedore_5": 33.0, "Comedore_6": "Copa de Leche" }, "geometry": { "type": "Point", "coordinates": [ -58.421991265405907, -34.693623836553421 ] } },
-{ "type": "Feature", "properties": { "id": 42, "Comedores": "Arco Iris", "Comedore_1": "Barraza Daniel", "Comedore_3": "Mendoza 373", "Comedore_4": 1541677599.0, "Comedore_5": 40.0, "Comedore_6": "Copa de Leche" }, "geometry": { "type": "Point", "coordinates": [ -58.395611239362538, -34.677345183521638 ] } },
-{ "type": "Feature", "properties": { "id": 43, "Comedores": "Por los niÃ¯Â¿Â½os", "Comedore_1": "szibancsyn rosa", "Comedore_3": "Lituania 1644", "Comedore_4": 1169427918.0, "Comedore_5": 30.0, "Comedore_6": "Copa de Leche" }, "geometry": { "type": "Point", "coordinates": [ -58.403807376723066, -34.725536465987382 ] } },
-{ "type": "Feature", "properties": { "id": 44, "Comedores": "Caraza  por el Futuro", "Comedore_1": "Conde Manuel", "Comedore_3": "Colon 4039", "Comedore_4": 42766193.0, "Comedore_5": 30.0, "Comedore_6": "Copa de Leche" }, "geometry": { "type": "Point", "coordinates": [ -58.431631261216744, -34.701982123684715 ] } },
-{ "type": "Feature", "properties": { "id": 45, "Comedores": "Volver a Empezar", "Comedore_1": "Ferreyra Angela", "Comedore_3": "Luis Vernet 4215", "Comedore_4": 42868516.0, "Comedore_5": 50.0, "Comedore_6": "Copa de Leche" }, "geometry": { "type": "Point", "coordinates": [ -58.423042228476653, -34.715978976131375 ] } },
-{ "type": "Feature", "properties": { "id": 46, "Comedores": "Juntos Podemos", "Comedore_1": "Rosa Gonzalez", "Comedore_3": "Murature 4358", "Comedore_4": 20052582.0, "Comedore_5": 46.0, "Comedore_6": "Copa de Leche" }, "geometry": { "type": "Point", "coordinates": [ -58.434861662416445, -34.701889159853444 ] } },
-{ "type": "Feature", "properties": { "id": 47, "Comedores": "MTR", "Comedore_1": "Diaz Cecilia", "Comedore_3": "20 de Septiembre 4188", "Comedore_4": 42472522.0, "Comedore_5": 60.0, "Comedore_6": "Copa de Leche" }, "geometry": { "type": "Point", "coordinates": [ -58.40263804250182, -34.720456321387978 ] } },
-{ "type": "Feature", "properties": { "id": 48, "Comedores": "Fuerza y Esperanza", "Comedore_1": "Silva Lorena", "Comedore_3": "Republica Arg 2387", "Comedore_4": 1536323953.0, "Comedore_5": 150.0, "Comedore_6": "Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.401397270390298, -34.672775670131124 ] } },
-{ "type": "Feature", "properties": { "id": 49, "Comedores": "1 de Mayo B.Pampa", "Comedore_1": "Rosmery\/Orue fabian", "Comedore_3": "Haban y las Vias", "Comedore_4": 0.0, "Comedore_5": 120.0, "Comedore_6": "Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.418730826143808, -34.666458839489628 ] } },
-{ "type": "Feature", "properties": { "id": 51, "Comedores": "Agrup Agustin Tosco", "Comedore_1": "Miranda Braulio", "Comedore_3": "3 de Febrero 3457", "Comedore_4": 42672111.0, "Comedore_5": 40.0, "Comedore_6": "Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.407079229316409, -34.719956813043424 ] } },
-{ "type": "Feature", "properties": { "id": 52, "Comedores": "Junta Vecinal por  Lanus", "Comedore_1": "Gonzalez Liliana\/ Tucu", "Comedore_3": "Republica Arg 2347", "Comedore_4": 1537354792.0, "Comedore_5": 40.0, "Comedore_6": "Comedor\/ ESPERA" }, "geometry": { "type": "Point", "coordinates": [ -58.401829360939765, -34.672177458464716 ] } },
-{ "type": "Feature", "properties": { "id": 53, "Comedores": "SoÃ¯Â¿Â½ando Por mas Sonrisas", "Comedore_1": "Lorena Herrera", "Comedore_3": "Magallanes 4893", "Comedore_4": 1558082511.0, "Comedore_5": 180.0, "Comedore_6": "Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.437678078924201, -34.69708233342363 ] } },
-{ "type": "Feature", "properties": { "id": 54, "Comedores": "Elegidos de Eva Peron", "Comedore_1": "Diego Zurita", "Comedore_3": "Molinedo y Suarez", "Comedore_4": 1524349325.0, "Comedore_5": 180.0, "Comedore_6": "Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.442225218205664, -34.692434182079396 ] } },
-{ "type": "Feature", "properties": { "id": 56, "Comedores": "El Gringo", "Comedore_1": "Carlos Aquino", "Comedore_3": "Taborda 3333", "Comedore_4": 1558608073.0, "Comedore_5": 110.0, "Comedore_6": "Merendero" }, "geometry": { "type": "Point", "coordinates": [ -58.405050401009042, -34.719788468722086 ] } },
-{ "type": "Feature", "properties": { "id": 57, "Comedores": "Roca Negra", "Comedore_1": "Lovato Valeria Elsa Rita", "Comedore_3": "Camino 4431 y Mendez", "Comedore_4": 1536282721.0, "Comedore_5": 60.0, "Comedore_6": "copa de leche\/Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.342270701256609, -34.719518206254492 ] } },
-{ "type": "Feature", "properties": { "id": 58, "Comedores": "La Torre\/13 de Enero", "Comedore_1": "Walter Bordagorry", "Comedore_3": "Pirovano 1775", "Comedore_4": 0.0, "Comedore_5": 60.0, "Comedore_6": "copa de leche\/Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.361556148426615, -34.725254652506003 ] } },
-{ "type": "Feature", "properties": { "id": 60, "Comedores": "La Semillita MTD", "Comedore_1": "Lasarte Esther Celia", "Comedore_3": "Klosterman 974", "Comedore_4": 1536282721.0, "Comedore_5": 60.0, "Comedore_6": "copa de leche\/Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.346151227860453, -34.72635872151465 ] } },
-{ "type": "Feature", "properties": { "id": 62, "Comedores": "La Maquinita", "Comedore_1": "Ana Romero", "Comedore_3": "Rodriguez y Madariaga", "Comedore_4": 0.0, "Comedore_5": 80.0, "Comedore_6": "Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.371367021367135, -34.706498359320314 ] } },
-{ "type": "Feature", "properties": { "id": 65, "Comedores": "HOGAR  (Refugio Maria y Jose)", "Comedore_1": "Mellia Cecilia", "Comedore_3": "Luis Vernet 3561", "Comedore_4": 42676716.0, "Comedore_5": 20.0, "Comedore_6": "copa de leche" }, "geometry": { "type": "Point", "coordinates": [ -58.414868687114428, -34.711352936974691 ] } },
-{ "type": "Feature", "properties": { "id": 66, "Comedores": "C.C Nueva Esperanza", "Comedore_1": "Zaballa Veronica", "Comedore_3": "Canada 3733", "Comedore_4": 1552288414.0, "Comedore_5": 70.0, "Comedore_6": "copa de leche" }, "geometry": { "type": "Point", "coordinates": [ -58.42240622422014, -34.703435488296229 ] } },
-{ "type": "Feature", "properties": { "id": 69, "Comedores": "Barrio Obrero", "Comedore_1": "Mario Roberto Goncebate", "Comedore_3": "Bustamente 2609", "Comedore_4": 0.0, "Comedore_5": 60.0, "Comedore_6": "Copa de leche" }, "geometry": { "type": "Point", "coordinates": [ -58.361216154268185, -34.704148957739548 ] } },
-{ "type": "Feature", "properties": { "id": 70, "Comedores": "Iglesia La Buena Mano de Dios", "Comedore_1": "laura Susana Rinaldi\/ Lau Lopez", "Comedore_3": "condarco y Ituzaigo", "Comedore_4": 0.0, "Comedore_5": 60.0, "Comedore_6": "copa de leche" }, "geometry": { "type": "Point", "coordinates": [ -58.356360808682467, -34.729783095982732 ] } },
-{ "type": "Feature", "properties": { "id": 71, "Comedores": "Parroquia San Miguel", "Comedore_1": "Iris Gullas\/Juan Carlos Medina", "Comedore_3": "Guarnes 3200 y Molinedo", "Comedore_4": 0.0, "Comedore_5": 70.0, "Comedore_6": "copa leche Solo Sabados" }, "geometry": { "type": "Point", "coordinates": [ -58.425919838774583, -34.68098667419909 ] } },
-{ "type": "Feature", "properties": { "id": 72, "Comedores": "San Jorge", "Comedore_1": "Barrera Silvia", "Comedore_3": "Oliden 4228", "Comedore_4": 0.0, "Comedore_5": 70.0, "Comedore_6": "Comedor\/Copa Leche" }, "geometry": { "type": "Point", "coordinates": [ -58.43426044496514, -34.696946340113101 ] } },
-{ "type": "Feature", "properties": { "id": 73, "Comedores": "Casa del NiÃ¯Â¿Â½o", "Comedore_1": "Jose Gonzalez\/Sabrina", "Comedore_3": "Marraspin 3540", "Comedore_4": 0.0, "Comedore_5": 40.0, "Comedore_6": "Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.404608563014307, -34.725362675731233 ] } },
-{ "type": "Feature", "properties": { "id": 67, "Comedores": "Manos a la obra ( Barrio de pie )", "Comedore_1": "MuÃ¯Â¿Â½oz Sonia Estela", "Comedore_3": "warnes 3682", "Comedore_4": 0.0, "Comedore_5": 70.0, "Comedore_6": "comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.427863169346118, -34.677897898019999 ] } },
-{ "type": "Feature", "properties": { "id": 74, "Comedores": "Hogar Nuestro Sol", "Comedore_1": "Tamara PeÃ¯Â¿Â½a\/Yanina\/Tiziana", "Comedore_3": "Tacuari 1755", "Comedore_4": 0.0, "Comedore_5": 14.0, "Comedore_6": "Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.41070560302709, -34.692164458225498 ] } },
-{ "type": "Feature", "properties": { "id": 76, "Comedores": "HOGAR  Maria Imaculada", "Comedore_1": "Hermana Jolanda", "Comedore_3": "Oliden 2050", "Comedore_4": 42096301.0, "Comedore_5": 30.0, "Comedore_6": "Comedor" }, "geometry": { "type": "Point", "coordinates": [ -58.415196148898076, -34.686333523689001 ] } },
-{ "type": "Feature", "properties": { "id": 19, "Comedores": null, "Comedore_1": null, "Comedore_3": null, "Comedore_4": null, "Comedore_5": null, "Comedore_6": null }, "geometry": { "type": "Point", "coordinates": [ -58.430209701440155, -34.697191863314487 ] } },
-{ "type": "Feature", "properties": { "id": 22, "Comedores": null, "Comedore_1": null, "Comedore_3": null, "Comedore_4": null, "Comedore_5": null, "Comedore_6": null }, "geometry": { "type": "Point", "coordinates": [ -58.441489821027723, -34.693578161445984 ] } },
-{ "type": "Feature", "properties": { "id": 34, "Comedores": null, "Comedore_1": null, "Comedore_3": null, "Comedore_4": null, "Comedore_5": null, "Comedore_6": null }, "geometry": { "type": "Point", "coordinates": [ -58.442026796807397, -34.684166572443047 ] } },
-{ "type": "Feature", "properties": { "id": 55, "Comedores": null, "Comedore_1": null, "Comedore_3": null, "Comedore_4": null, "Comedore_5": null, "Comedore_6": null }, "geometry": { "type": "Point", "coordinates": [ -58.441671231764118, -34.684601958210337 ] } },
-{ "type": "Feature", "properties": { "id": 59, "Comedores": null, "Comedore_1": null, "Comedore_3": null, "Comedore_4": null, "Comedore_5": null, "Comedore_6": null }, "geometry": { "type": "Point", "coordinates": [ -58.348507748100651, -34.72423113357064 ] } },
-{ "type": "Feature", "properties": { "id": 50, "Comedores": null, "Comedore_1": null, "Comedore_3": null, "Comedore_4": null, "Comedore_5": null, "Comedore_6": null }, "geometry": { "type": "Point", "coordinates": [ -58.403437493370845, -34.720762290655259 ] } },
-{ "type": "Feature", "properties": { "id": 61, "Comedores": null, "Comedore_1": null, "Comedore_3": null, "Comedore_4": null, "Comedore_5": null, "Comedore_6": null }, "geometry": { "type": "Point", "coordinates": [ -58.340854417537471, -34.725426360687386 ] } },
-{ "type": "Feature", "properties": { "id": 63, "Comedores": null, "Comedore_1": null, "Comedore_3": null, "Comedore_4": null, "Comedore_5": null, "Comedore_6": null }, "geometry": { "type": "Point", "coordinates": [ -58.432417858506163, -34.673537447763124 ] } },
-{ "type": "Feature", "properties": { "id": 64, "Comedores": null, "Comedore_1": null, "Comedore_3": null, "Comedore_4": null, "Comedore_5": null, "Comedore_6": null }, "geometry": { "type": "Point", "coordinates": [ -58.44433796958878, -34.687522671065913 ] } },
-{ "type": "Feature", "properties": { "id": 24, "Comedores": null, "Comedore_1": null, "Comedore_3": null, "Comedore_4": null, "Comedore_5": null, "Comedore_6": null }, "geometry": { "type": "Point", "coordinates": [ -58.444649996055333, -34.687014721004083 ] } },
-{ "type": "Feature", "properties": { "id": 75, "Comedores": null, "Comedore_1": null, "Comedore_3": null, "Comedore_4": null, "Comedore_5": null, "Comedore_6": null }, "geometry": { "type": "Point", "coordinates": [ -58.44529219006214, -34.688625648343034 ] } }
-]
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "Comedores": "La Fe en Cristo",
+        "Comedore_1": "Jose Colalillo",
+        "Comedore_3": "Chorroarin 1010",
+        "Comedore_4": 1535387947,
+        "Comedore_5": 60,
+        "Comedore_6": "Copa de Leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.348054741384786,
+          -34.72540061202362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "Comedores": "Luz del Mundo",
+        "Comedore_1": "Salomon Aguilera",
+        "Comedore_3": "R.Alfonsin 5232",
+        "Comedore_4": 0,
+        "Comedore_5": 50,
+        "Comedore_6": "Copa de Leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.340264226862566,
+          -34.72997196671726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "Comedores": "Manos Solidarias",
+        "Comedore_1": "Gimenez Marina",
+        "Comedore_3": "Dto.Alvarez y Rondeau",
+        "Comedore_4": 1537667163,
+        "Comedore_5": 65,
+        "Comedore_6": "Copa de Leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.34799314101523,
+          -34.72391221915158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "Comedores": "Caritas Felices",
+        "Comedore_1": "Nieves Yolanda",
+        "Comedore_3": "Ituzaingo 3364",
+        "Comedore_4": 42893570,
+        "Comedore_5": 80,
+        "Comedore_6": "Copa de Leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.36469129223367,
+          -34.7233094870693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "Comedores": "Ctro Crist es Bueno",
+        "Comedore_1": "Mesa Marta",
+        "Comedore_3": "Kloosterman 436",
+        "Comedore_4": 0,
+        "Comedore_5": 60,
+        "Comedore_6": "Copa de Leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.34203594302378,
+          -34.72275742177267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "Comedores": "NiÃ¯Â¿Â½os Felices de Felisa",
+        "Comedore_1": "Felisa Aguilar",
+        "Comedore_3": "Posadas 543",
+        "Comedore_4": 42894946,
+        "Comedore_5": 40,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.356311005884514,
+          -34.711845012143044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "Comedores": "Munizaga",
+        "Comedore_1": "Reinaldo Vallejos",
+        "Comedore_3": "Arias 2988",
+        "Comedore_4": 20503640,
+        "Comedore_5": 30,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.37373875881657,
+          -34.72368887996035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "Comedores": "Trabajadores Combativos",
+        "Comedore_1": "Ramirez Alejandra",
+        "Comedore_3": "Cazon 2046",
+        "Comedore_4": 1564953110,
+        "Comedore_5": 60,
+        "Comedore_6": "comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3538676508126,
+          -34.735075530703824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "Comedores": "Ctro Norma pla/Quebracho",
+        "Comedore_1": "Tejerina",
+        "Comedore_3": "Guido 5360",
+        "Comedore_4": 0,
+        "Comedore_5": 60,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.34364998414802,
+          -34.734454558578705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "Comedores": "8 de Octubre/Quebracho",
+        "Comedore_1": "Garay Eugenio",
+        "Comedore_3": "Victor Hugo 301",
+        "Comedore_4": 0,
+        "Comedore_5": 60,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.336308569572125,
+          -34.72634138752354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "Comedores": "CTD Anibal Veron/Quebracho",
+        "Comedore_1": "Cristian Benitez",
+        "Comedore_3": "Pintos 245 Esq Mendez",
+        "Comedore_4": 0,
+        "Comedore_5": 60,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.35313480642468,
+          -34.72360294909184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "Comedores": "Rincon de los Abuelos/ Quebracho",
+        "Comedore_1": "Galarza Roberto/Aida Garcia",
+        "Comedore_3": "Monasterio 631",
+        "Comedore_4": 20094858,
+        "Comedore_5": 60,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.34158440062995,
+          -34.72609980828947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "Comedores": "Monica Ororbio /Quebracho",
+        "Comedore_1": "Pablo Chamorro",
+        "Comedore_3": "Pitagoras 5000",
+        "Comedore_4": 1540369505,
+        "Comedore_5": 60,
+        "Comedore_6": "comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.34895824194863,
+          -34.73304885927716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "Comedores": "La Sonrisa de un niÃ¯Â¿Â½o ( La China)",
+        "Comedore_1": "Ramona Maidana",
+        "Comedore_3": "Dto Alvarez 4076",
+        "Comedore_4": 42207858,
+        "Comedore_5": 0,
+        "Comedore_6": "Copa de Leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.34896796997147,
+          -34.72061644607754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "Comedores": "Dias Felices",
+        "Comedore_1": "Maria Coronel/ Duete Raimunda",
+        "Comedore_3": "Corvalan 1315",
+        "Comedore_4": 1552593662,
+        "Comedore_5": 60,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.35348501524717,
+          -34.72594091724963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "Comedores": "Solidaridad",
+        "Comedore_1": "Garcete Irma",
+        "Comedore_3": "9 de Julio 5100",
+        "Comedore_4": 0,
+        "Comedore_5": 70,
+        "Comedore_6": "Copa de Leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.35041096002726,
+          -34.73673253726222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "Comedores": "Taller Protegido",
+        "Comedore_1": "Soriani",
+        "Comedore_3": "Galvez 1179",
+        "Comedore_4": 42257669,
+        "Comedore_5": 40,
+        "Comedore_6": "comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38677430943274,
+          -34.69786908598484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "Comedores": "Mov 29 de Mayo",
+        "Comedore_1": "Guana Eulogia",
+        "Comedore_3": "Yapeyu 351",
+        "Comedore_4": 1536039602,
+        "Comedore_5": 60,
+        "Comedore_6": "Copa de Leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.33565030669273,
+          -34.727289869751175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "Comedores": "De Pie la Escuelita",
+        "Comedore_1": "Galarza Zunilda",
+        "Comedore_3": "1 de mayo 425",
+        "Comedore_4": 1522447387,
+        "Comedore_5": 35,
+        "Comedore_6": "Copa de Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.41033233809603,
+          -34.7238299362916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "Comedores": "Evita Pueblo",
+        "Comedore_1": "Irazabal Mirta",
+        "Comedore_3": "Boqueron y DÃ¯Â¿Â½ elia",
+        "Comedore_4": 1536044156,
+        "Comedore_5": 100,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.416872812124076,
+          -34.683338662524385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "Comedores": "Mov.La dignidad/Solcito de Jardin",
+        "Comedore_1": "Cruz Melina",
+        "Comedore_3": "Maza 3646 y Valentinas",
+        "Comedore_4": 1561674833,
+        "Comedore_5": 100,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.428990685918244,
+          -34.67872433702017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "Comedores": "Los Inquietos de Acuba",
+        "Comedore_1": "C.C Maidana Olga",
+        "Comedore_3": "Boqueron y Hernandarias",
+        "Comedore_4": 1525364582,
+        "Comedore_5": 100,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.43559925610641,
+          -34.69460857699365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "Comedores": "Villa Talleres",
+        "Comedore_1": "Jimenes Margarita",
+        "Comedore_3": "20 de Septiembre 4188",
+        "Comedore_4": 42493054,
+        "Comedore_5": 110,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.40263747202344,
+          -34.72048836044334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "Comedores": "Crecer Luchando",
+        "Comedore_1": "Fragioli Gladys",
+        "Comedore_3": "Salcedo 1026",
+        "Comedore_4": 42894756,
+        "Comedore_5": 47,
+        "Comedore_6": "Copa de Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.34207080177244,
+          -34.73053416537094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "Comedores": "Mov 29 de Mayo",
+        "Comedore_1": "Roberto Grau",
+        "Comedore_3": "Purita 2658",
+        "Comedore_4": 1558822744,
+        "Comedore_5": 50,
+        "Comedore_6": "Copa de Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.37795747805835,
+          -34.72208699886469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "Comedores": "Nuestro Barrio",
+        "Comedore_1": "Perla Lorenzo",
+        "Comedore_3": "Ayacucho 4007",
+        "Comedore_4": 152275784,
+        "Comedore_5": 50,
+        "Comedore_6": "Copa de Leche/ ESPERA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.352123092048636,
+          -34.72260258407565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "Comedores": "Villa Sapito",
+        "Comedore_1": "Amarillo Daniel",
+        "Comedore_3": "Bustamante 2280",
+        "Comedore_4": 1550984238,
+        "Comedore_5": 40,
+        "Comedore_6": "Copa de Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.363553518894896,
+          -34.70221589086075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "Comedores": "FTC 29  de Mayo",
+        "Comedore_1": "Amunizada",
+        "Comedore_3": "Cazon 1016",
+        "Comedore_4": 0,
+        "Comedore_5": 40,
+        "Comedore_6": "copa de leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.346079939460054,
+          -34.728420640810654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "Comedores": "C.C 7 de Mayo",
+        "Comedore_1": "Herrera Graciela",
+        "Comedore_3": "C.Uruguayo 2795",
+        "Comedore_4": 1567053659,
+        "Comedore_5": 90,
+        "Comedore_6": "comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.37303553248575,
+          -34.73129551379329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "Comedores": "Junta Vec.Por Lanus/Villa Pora",
+        "Comedore_1": "Aguirre Cesar",
+        "Comedore_3": "bueras 3047",
+        "Comedore_4": 1537332307,
+        "Comedore_5": 80,
+        "Comedore_6": "Copa de leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.35774360076405,
+          -34.710686530579174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "Comedores": "Villa Pora",
+        "Comedore_1": "Reyna",
+        "Comedore_3": "bueras 3096",
+        "Comedore_4": 20471847,
+        "Comedore_5": 80,
+        "Comedore_6": "comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.35733508627649,
+          -34.71074189001909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "Comedores": "Polideportivo",
+        "Comedore_1": "Raquel herrero/Gustavo",
+        "Comedore_3": "Dto Alvarez Y Chilavert",
+        "Comedore_4": 1536109282,
+        "Comedore_5": 100,
+        "Comedore_6": "Copa de Leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.346963781552304,
+          -34.725721390878796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "Comedores": "San jose Obrero",
+        "Comedore_1": "Rodriguez Julia",
+        "Comedore_3": "Grecia 4580",
+        "Comedore_4": 1568878197,
+        "Comedore_5": 0,
+        "Comedore_6": "Copa de Leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.427976616449385,
+          -34.69486320757886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "Comedores": "3 De febrero",
+        "Comedore_1": "Coria Walter",
+        "Comedore_3": "Ruiz de OcaÃ¯Â¿Â½a 4038",
+        "Comedore_4": 42762277,
+        "Comedore_5": 96,
+        "Comedore_6": "Copa de Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.417730208251626,
+          -34.71934421576992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "Comedores": "Nueva Vida",
+        "Comedore_1": "Brandan Estela",
+        "Comedore_3": "Ugarte 3926",
+        "Comedore_4": 42673379,
+        "Comedore_5": 100,
+        "Comedore_6": "Copa de Leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.415121659998334,
+          -34.720105574613676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "Comedores": "Rosa Villalba",
+        "Comedore_1": "Martin  Villalba",
+        "Comedore_3": "3 de Febrero 3443",
+        "Comedore_4": 42763269,
+        "Comedore_5": 80,
+        "Comedore_6": "Copa de Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.406984242652484,
+          -34.720099768015196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "Comedores": "Coordinacion  Barrial",
+        "Comedore_1": "Galvan Fransisca",
+        "Comedore_3": "Murature 2961/Chubut 2977",
+        "Comedore_4": 1565468882,
+        "Comedore_5": 33,
+        "Comedore_6": "Copa de Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.42199126540591,
+          -34.69362383655342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "Comedores": "Arco Iris",
+        "Comedore_1": "Barraza Daniel",
+        "Comedore_3": "Mendoza 373",
+        "Comedore_4": 1541677599,
+        "Comedore_5": 40,
+        "Comedore_6": "Copa de Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.39561123936254,
+          -34.67734518352164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "Comedores": "Por los niÃ¯Â¿Â½os",
+        "Comedore_1": "szibancsyn rosa",
+        "Comedore_3": "Lituania 1644",
+        "Comedore_4": 1169427918,
+        "Comedore_5": 30,
+        "Comedore_6": "Copa de Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.403807376723066,
+          -34.72553646598738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "Comedores": "Caraza  por el Futuro",
+        "Comedore_1": "Conde Manuel",
+        "Comedore_3": "Colon 4039",
+        "Comedore_4": 42766193,
+        "Comedore_5": 30,
+        "Comedore_6": "Copa de Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.431631261216744,
+          -34.701982123684715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 45,
+        "Comedores": "Volver a Empezar",
+        "Comedore_1": "Ferreyra Angela",
+        "Comedore_3": "Luis Vernet 4215",
+        "Comedore_4": 42868516,
+        "Comedore_5": 50,
+        "Comedore_6": "Copa de Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.42304222847665,
+          -34.715978976131375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 46,
+        "Comedores": "Juntos Podemos",
+        "Comedore_1": "Rosa Gonzalez",
+        "Comedore_3": "Murature 4358",
+        "Comedore_4": 20052582,
+        "Comedore_5": 46,
+        "Comedore_6": "Copa de Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.434861662416445,
+          -34.701889159853444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47,
+        "Comedores": "MTR",
+        "Comedore_1": "Diaz Cecilia",
+        "Comedore_3": "20 de Septiembre 4188",
+        "Comedore_4": 42472522,
+        "Comedore_5": 60,
+        "Comedore_6": "Copa de Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.40263804250182,
+          -34.72045632138798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 48,
+        "Comedores": "Fuerza y Esperanza",
+        "Comedore_1": "Silva Lorena",
+        "Comedore_3": "Republica Arg 2387",
+        "Comedore_4": 1536323953,
+        "Comedore_5": 150,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4013972703903,
+          -34.672775670131124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 49,
+        "Comedores": "1 de Mayo B.Pampa",
+        "Comedore_1": "Rosmery/Orue fabian",
+        "Comedore_3": "Haban y las Vias",
+        "Comedore_4": 0,
+        "Comedore_5": 120,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.41873082614381,
+          -34.66645883948963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 51,
+        "Comedores": "Agrup Agustin Tosco",
+        "Comedore_1": "Miranda Braulio",
+        "Comedore_3": "3 de Febrero 3457",
+        "Comedore_4": 42672111,
+        "Comedore_5": 40,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.40707922931641,
+          -34.719956813043424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 52,
+        "Comedores": "Junta Vecinal por  Lanus",
+        "Comedore_1": "Gonzalez Liliana/ Tucu",
+        "Comedore_3": "Republica Arg 2347",
+        "Comedore_4": 1537354792,
+        "Comedore_5": 40,
+        "Comedore_6": "Comedor/ ESPERA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.401829360939765,
+          -34.672177458464716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 53,
+        "Comedores": "SoÃ¯Â¿Â½ando Por mas Sonrisas",
+        "Comedore_1": "Lorena Herrera",
+        "Comedore_3": "Magallanes 4893",
+        "Comedore_4": 1558082511,
+        "Comedore_5": 180,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4376780789242,
+          -34.69708233342363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 54,
+        "Comedores": "Elegidos de Eva Peron",
+        "Comedore_1": "Diego Zurita",
+        "Comedore_3": "Molinedo y Suarez",
+        "Comedore_4": 1524349325,
+        "Comedore_5": 180,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.442225218205664,
+          -34.692434182079396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 56,
+        "Comedores": "El Gringo",
+        "Comedore_1": "Carlos Aquino",
+        "Comedore_3": "Taborda 3333",
+        "Comedore_4": 1558608073,
+        "Comedore_5": 110,
+        "Comedore_6": "Merendero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.40505040100904,
+          -34.719788468722086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 57,
+        "Comedores": "Roca Negra",
+        "Comedore_1": "Lovato Valeria Elsa Rita",
+        "Comedore_3": "Camino 4431 y Mendez",
+        "Comedore_4": 1536282721,
+        "Comedore_5": 60,
+        "Comedore_6": "copa de leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.34227070125661,
+          -34.71951820625449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 58,
+        "Comedores": "La Torre/13 de Enero",
+        "Comedore_1": "Walter Bordagorry",
+        "Comedore_3": "Pirovano 1775",
+        "Comedore_4": 0,
+        "Comedore_5": 60,
+        "Comedore_6": "copa de leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.361556148426615,
+          -34.725254652506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 60,
+        "Comedores": "La Semillita MTD",
+        "Comedore_1": "Lasarte Esther Celia",
+        "Comedore_3": "Klosterman 974",
+        "Comedore_4": 1536282721,
+        "Comedore_5": 60,
+        "Comedore_6": "copa de leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.34615122786045,
+          -34.72635872151465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 62,
+        "Comedores": "La Maquinita",
+        "Comedore_1": "Ana Romero",
+        "Comedore_3": "Rodriguez y Madariaga",
+        "Comedore_4": 0,
+        "Comedore_5": 80,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.371367021367135,
+          -34.706498359320314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 65,
+        "Comedores": "HOGAR  (Refugio Maria y Jose)",
+        "Comedore_1": "Mellia Cecilia",
+        "Comedore_3": "Luis Vernet 3561",
+        "Comedore_4": 42676716,
+        "Comedore_5": 20,
+        "Comedore_6": "copa de leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.41486868711443,
+          -34.71135293697469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 66,
+        "Comedores": "C.C Nueva Esperanza",
+        "Comedore_1": "Zaballa Veronica",
+        "Comedore_3": "Canada 3733",
+        "Comedore_4": 1552288414,
+        "Comedore_5": 70,
+        "Comedore_6": "copa de leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.42240622422014,
+          -34.70343548829623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 69,
+        "Comedores": "Barrio Obrero",
+        "Comedore_1": "Mario Roberto Goncebate",
+        "Comedore_3": "Bustamente 2609",
+        "Comedore_4": 0,
+        "Comedore_5": 60,
+        "Comedore_6": "Copa de leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.361216154268185,
+          -34.70414895773955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 70,
+        "Comedores": "Iglesia La Buena Mano de Dios",
+        "Comedore_1": "laura Susana Rinaldi/ Lau Lopez",
+        "Comedore_3": "condarco y Ituzaigo",
+        "Comedore_4": 0,
+        "Comedore_5": 60,
+        "Comedore_6": "copa de leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.35636080868247,
+          -34.72978309598273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 71,
+        "Comedores": "Parroquia San Miguel",
+        "Comedore_1": "Iris Gullas/Juan Carlos Medina",
+        "Comedore_3": "Guarnes 3200 y Molinedo",
+        "Comedore_4": 0,
+        "Comedore_5": 70,
+        "Comedore_6": "copa leche Solo Sabados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.42591983877458,
+          -34.68098667419909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 72,
+        "Comedores": "San Jorge",
+        "Comedore_1": "Barrera Silvia",
+        "Comedore_3": "Oliden 4228",
+        "Comedore_4": 0,
+        "Comedore_5": 70,
+        "Comedore_6": "Comedor/Copa Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.43426044496514,
+          -34.6969463401131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 73,
+        "Comedores": "Casa del NiÃ¯Â¿Â½o",
+        "Comedore_1": "Jose Gonzalez/Sabrina",
+        "Comedore_3": "Marraspin 3540",
+        "Comedore_4": 0,
+        "Comedore_5": 40,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.40460856301431,
+          -34.72536267573123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 67,
+        "Comedores": "Manos a la obra ( Barrio de pie )",
+        "Comedore_1": "MuÃ¯Â¿Â½oz Sonia Estela",
+        "Comedore_3": "warnes 3682",
+        "Comedore_4": 0,
+        "Comedore_5": 70,
+        "Comedore_6": "comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.42786316934612,
+          -34.67789789802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 74,
+        "Comedores": "Hogar Nuestro Sol",
+        "Comedore_1": "Tamara PeÃ¯Â¿Â½a/Yanina/Tiziana",
+        "Comedore_3": "Tacuari 1755",
+        "Comedore_4": 0,
+        "Comedore_5": 14,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.41070560302709,
+          -34.6921644582255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 76,
+        "Comedores": "HOGAR  Maria Imaculada",
+        "Comedore_1": "Hermana Jolanda",
+        "Comedore_3": "Oliden 2050",
+        "Comedore_4": 42096301,
+        "Comedore_5": 30,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.415196148898076,
+          -34.686333523689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "Comedores": null,
+        "Comedore_1": null,
+        "Comedore_3": null,
+        "Comedore_4": null,
+        "Comedore_5": null,
+        "Comedore_6": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.430209701440155,
+          -34.69719186331449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "Comedores": null,
+        "Comedore_1": null,
+        "Comedore_3": null,
+        "Comedore_4": null,
+        "Comedore_5": null,
+        "Comedore_6": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.44148982102772,
+          -34.693578161445984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "Comedores": null,
+        "Comedore_1": null,
+        "Comedore_3": null,
+        "Comedore_4": null,
+        "Comedore_5": null,
+        "Comedore_6": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4420267968074,
+          -34.68416657244305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 55,
+        "Comedores": null,
+        "Comedore_1": null,
+        "Comedore_3": null,
+        "Comedore_4": null,
+        "Comedore_5": null,
+        "Comedore_6": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.44167123176412,
+          -34.68460195821034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 59,
+        "Comedores": null,
+        "Comedore_1": null,
+        "Comedore_3": null,
+        "Comedore_4": null,
+        "Comedore_5": null,
+        "Comedore_6": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.34850774810065,
+          -34.72423113357064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 50,
+        "Comedores": null,
+        "Comedore_1": null,
+        "Comedore_3": null,
+        "Comedore_4": null,
+        "Comedore_5": null,
+        "Comedore_6": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.403437493370845,
+          -34.72076229065526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 61,
+        "Comedores": null,
+        "Comedore_1": null,
+        "Comedore_3": null,
+        "Comedore_4": null,
+        "Comedore_5": null,
+        "Comedore_6": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.34085441753747,
+          -34.725426360687386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 63,
+        "Comedores": null,
+        "Comedore_1": null,
+        "Comedore_3": null,
+        "Comedore_4": null,
+        "Comedore_5": null,
+        "Comedore_6": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.43241785850616,
+          -34.673537447763124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 64,
+        "Comedores": null,
+        "Comedore_1": null,
+        "Comedore_3": null,
+        "Comedore_4": null,
+        "Comedore_5": null,
+        "Comedore_6": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.44433796958878,
+          -34.68752267106591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "Comedores": null,
+        "Comedore_1": null,
+        "Comedore_3": null,
+        "Comedore_4": null,
+        "Comedore_5": null,
+        "Comedore_6": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.44464999605533,
+          -34.68701472100408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 75,
+        "Comedores": null,
+        "Comedore_1": null,
+        "Comedore_3": null,
+        "Comedore_4": null,
+        "Comedore_5": null,
+        "Comedore_6": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.44529219006214,
+          -34.688625648343034
+        ]
+      }
+    }
+  ]
 }
