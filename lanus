@@ -1,0 +1,2382 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "Comedores": "La Fe en Cristo",
+        "Comedore_1": "Jose Colalillo",
+        "Comedore_3": "Chorroarin 1010",
+        "Comedore_4": 1535387947,
+        "Comedore_5": 60,
+        "Comedore_6": "Copa de Leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.348054741384786,
+          -34.72540061202362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "Comedores": "Luz del Mundo",
+        "Comedore_1": "Salomon Aguilera",
+        "Comedore_3": "R.Alfonsin 5232",
+        "Comedore_4": 0,
+        "Comedore_5": 50,
+        "Comedore_6": "Copa de Leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.340264226862566,
+          -34.72997196671726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "Comedores": "Manos Solidarias",
+        "Comedore_1": "Gimenez Marina",
+        "Comedore_3": "Dto.Alvarez y Rondeau",
+        "Comedore_4": 1537667163,
+        "Comedore_5": 65,
+        "Comedore_6": "Copa de Leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.34799314101523,
+          -34.72391221915158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "Comedores": "Caritas Felices",
+        "Comedore_1": "Nieves Yolanda",
+        "Comedore_3": "Ituzaingo 3364",
+        "Comedore_4": 42893570,
+        "Comedore_5": 80,
+        "Comedore_6": "Copa de Leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.36469129223367,
+          -34.7233094870693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "Comedores": "Ctro Crist es Bueno",
+        "Comedore_1": "Mesa Marta",
+        "Comedore_3": "Kloosterman 436",
+        "Comedore_4": 0,
+        "Comedore_5": 60,
+        "Comedore_6": "Copa de Leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.34203594302378,
+          -34.72275742177267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "Comedores": "NiÃ¯Â¿Â½os Felices de Felisa",
+        "Comedore_1": "Felisa Aguilar",
+        "Comedore_3": "Posadas 543",
+        "Comedore_4": 42894946,
+        "Comedore_5": 40,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.356311005884514,
+          -34.711845012143044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "Comedores": "Munizaga",
+        "Comedore_1": "Reinaldo Vallejos",
+        "Comedore_3": "Arias 2988",
+        "Comedore_4": 20503640,
+        "Comedore_5": 30,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.37373875881657,
+          -34.72368887996035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "Comedores": "Trabajadores Combativos",
+        "Comedore_1": "Ramirez Alejandra",
+        "Comedore_3": "Cazon 2046",
+        "Comedore_4": 1564953110,
+        "Comedore_5": 60,
+        "Comedore_6": "comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3538676508126,
+          -34.735075530703824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "Comedores": "Ctro Norma pla/Quebracho",
+        "Comedore_1": "Tejerina",
+        "Comedore_3": "Guido 5360",
+        "Comedore_4": 0,
+        "Comedore_5": 60,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.34364998414802,
+          -34.734454558578705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "Comedores": "8 de Octubre/Quebracho",
+        "Comedore_1": "Garay Eugenio",
+        "Comedore_3": "Victor Hugo 301",
+        "Comedore_4": 0,
+        "Comedore_5": 60,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.336308569572125,
+          -34.72634138752354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "Comedores": "CTD Anibal Veron/Quebracho",
+        "Comedore_1": "Cristian Benitez",
+        "Comedore_3": "Pintos 245 Esq Mendez",
+        "Comedore_4": 0,
+        "Comedore_5": 60,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.35313480642468,
+          -34.72360294909184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "Comedores": "Rincon de los Abuelos/ Quebracho",
+        "Comedore_1": "Galarza Roberto/Aida Garcia",
+        "Comedore_3": "Monasterio 631",
+        "Comedore_4": 20094858,
+        "Comedore_5": 60,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.34158440062995,
+          -34.72609980828947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "Comedores": "Monica Ororbio /Quebracho",
+        "Comedore_1": "Pablo Chamorro",
+        "Comedore_3": "Pitagoras 5000",
+        "Comedore_4": 1540369505,
+        "Comedore_5": 60,
+        "Comedore_6": "comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.34895824194863,
+          -34.73304885927716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "Comedores": "La Sonrisa de un niÃ¯Â¿Â½o ( La China)",
+        "Comedore_1": "Ramona Maidana",
+        "Comedore_3": "Dto Alvarez 4076",
+        "Comedore_4": 42207858,
+        "Comedore_5": 0,
+        "Comedore_6": "Copa de Leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.34896796997147,
+          -34.72061644607754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "Comedores": "Dias Felices",
+        "Comedore_1": "Maria Coronel/ Duete Raimunda",
+        "Comedore_3": "Corvalan 1315",
+        "Comedore_4": 1552593662,
+        "Comedore_5": 60,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.35348501524717,
+          -34.72594091724963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "Comedores": "Solidaridad",
+        "Comedore_1": "Garcete Irma",
+        "Comedore_3": "9 de Julio 5100",
+        "Comedore_4": 0,
+        "Comedore_5": 70,
+        "Comedore_6": "Copa de Leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.35041096002726,
+          -34.73673253726222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "Comedores": "Taller Protegido",
+        "Comedore_1": "Soriani",
+        "Comedore_3": "Galvez 1179",
+        "Comedore_4": 42257669,
+        "Comedore_5": 40,
+        "Comedore_6": "comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38677430943274,
+          -34.69786908598484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "Comedores": "Mov 29 de Mayo",
+        "Comedore_1": "Guana Eulogia",
+        "Comedore_3": "Yapeyu 351",
+        "Comedore_4": 1536039602,
+        "Comedore_5": 60,
+        "Comedore_6": "Copa de Leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.33565030669273,
+          -34.727289869751175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "Comedores": "De Pie la Escuelita",
+        "Comedore_1": "Galarza Zunilda",
+        "Comedore_3": "1 de mayo 425",
+        "Comedore_4": 1522447387,
+        "Comedore_5": 35,
+        "Comedore_6": "Copa de Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.41033233809603,
+          -34.7238299362916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "Comedores": "Evita Pueblo",
+        "Comedore_1": "Irazabal Mirta",
+        "Comedore_3": "Boqueron y DÃ¯Â¿Â½ elia",
+        "Comedore_4": 1536044156,
+        "Comedore_5": 100,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.416872812124076,
+          -34.683338662524385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "Comedores": "Mov.La dignidad/Solcito de Jardin",
+        "Comedore_1": "Cruz Melina",
+        "Comedore_3": "Maza 3646 y Valentinas",
+        "Comedore_4": 1561674833,
+        "Comedore_5": 100,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.428990685918244,
+          -34.67872433702017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "Comedores": "Los Inquietos de Acuba",
+        "Comedore_1": "C.C Maidana Olga",
+        "Comedore_3": "Boqueron y Hernandarias",
+        "Comedore_4": 1525364582,
+        "Comedore_5": 100,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.43559925610641,
+          -34.69460857699365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "Comedores": "Villa Talleres",
+        "Comedore_1": "Jimenes Margarita",
+        "Comedore_3": "20 de Septiembre 4188",
+        "Comedore_4": 42493054,
+        "Comedore_5": 110,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.40263747202344,
+          -34.72048836044334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "Comedores": "Crecer Luchando",
+        "Comedore_1": "Fragioli Gladys",
+        "Comedore_3": "Salcedo 1026",
+        "Comedore_4": 42894756,
+        "Comedore_5": 47,
+        "Comedore_6": "Copa de Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.34207080177244,
+          -34.73053416537094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "Comedores": "Mov 29 de Mayo",
+        "Comedore_1": "Roberto Grau",
+        "Comedore_3": "Purita 2658",
+        "Comedore_4": 1558822744,
+        "Comedore_5": 50,
+        "Comedore_6": "Copa de Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.37795747805835,
+          -34.72208699886469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "Comedores": "Nuestro Barrio",
+        "Comedore_1": "Perla Lorenzo",
+        "Comedore_3": "Ayacucho 4007",
+        "Comedore_4": 152275784,
+        "Comedore_5": 50,
+        "Comedore_6": "Copa de Leche/ ESPERA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.352123092048636,
+          -34.72260258407565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "Comedores": "Villa Sapito",
+        "Comedore_1": "Amarillo Daniel",
+        "Comedore_3": "Bustamante 2280",
+        "Comedore_4": 1550984238,
+        "Comedore_5": 40,
+        "Comedore_6": "Copa de Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.363553518894896,
+          -34.70221589086075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "Comedores": "FTC 29  de Mayo",
+        "Comedore_1": "Amunizada",
+        "Comedore_3": "Cazon 1016",
+        "Comedore_4": 0,
+        "Comedore_5": 40,
+        "Comedore_6": "copa de leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.346079939460054,
+          -34.728420640810654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "Comedores": "C.C 7 de Mayo",
+        "Comedore_1": "Herrera Graciela",
+        "Comedore_3": "C.Uruguayo 2795",
+        "Comedore_4": 1567053659,
+        "Comedore_5": 90,
+        "Comedore_6": "comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.37303553248575,
+          -34.73129551379329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "Comedores": "Junta Vec.Por Lanus/Villa Pora",
+        "Comedore_1": "Aguirre Cesar",
+        "Comedore_3": "bueras 3047",
+        "Comedore_4": 1537332307,
+        "Comedore_5": 80,
+        "Comedore_6": "Copa de leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.35774360076405,
+          -34.710686530579174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "Comedores": "Villa Pora",
+        "Comedore_1": "Reyna",
+        "Comedore_3": "bueras 3096",
+        "Comedore_4": 20471847,
+        "Comedore_5": 80,
+        "Comedore_6": "comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.35733508627649,
+          -34.71074189001909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "Comedores": "Polideportivo",
+        "Comedore_1": "Raquel herrero/Gustavo",
+        "Comedore_3": "Dto Alvarez Y Chilavert",
+        "Comedore_4": 1536109282,
+        "Comedore_5": 100,
+        "Comedore_6": "Copa de Leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.346963781552304,
+          -34.725721390878796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "Comedores": "San jose Obrero",
+        "Comedore_1": "Rodriguez Julia",
+        "Comedore_3": "Grecia 4580",
+        "Comedore_4": 1568878197,
+        "Comedore_5": 0,
+        "Comedore_6": "Copa de Leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.427976616449385,
+          -34.69486320757886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "Comedores": "3 De febrero",
+        "Comedore_1": "Coria Walter",
+        "Comedore_3": "Ruiz de OcaÃ¯Â¿Â½a 4038",
+        "Comedore_4": 42762277,
+        "Comedore_5": 96,
+        "Comedore_6": "Copa de Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.417730208251626,
+          -34.71934421576992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "Comedores": "Nueva Vida",
+        "Comedore_1": "Brandan Estela",
+        "Comedore_3": "Ugarte 3926",
+        "Comedore_4": 42673379,
+        "Comedore_5": 100,
+        "Comedore_6": "Copa de Leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.415121659998334,
+          -34.720105574613676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "Comedores": "Rosa Villalba",
+        "Comedore_1": "Martin  Villalba",
+        "Comedore_3": "3 de Febrero 3443",
+        "Comedore_4": 42763269,
+        "Comedore_5": 80,
+        "Comedore_6": "Copa de Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.406984242652484,
+          -34.720099768015196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "Comedores": "Coordinacion  Barrial",
+        "Comedore_1": "Galvan Fransisca",
+        "Comedore_3": "Murature 2961/Chubut 2977",
+        "Comedore_4": 1565468882,
+        "Comedore_5": 33,
+        "Comedore_6": "Copa de Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.42199126540591,
+          -34.69362383655342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "Comedores": "Arco Iris",
+        "Comedore_1": "Barraza Daniel",
+        "Comedore_3": "Mendoza 373",
+        "Comedore_4": 1541677599,
+        "Comedore_5": 40,
+        "Comedore_6": "Copa de Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.39561123936254,
+          -34.67734518352164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "Comedores": "Por los niÃ¯Â¿Â½os",
+        "Comedore_1": "szibancsyn rosa",
+        "Comedore_3": "Lituania 1644",
+        "Comedore_4": 1169427918,
+        "Comedore_5": 30,
+        "Comedore_6": "Copa de Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.403807376723066,
+          -34.72553646598738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "Comedores": "Caraza  por el Futuro",
+        "Comedore_1": "Conde Manuel",
+        "Comedore_3": "Colon 4039",
+        "Comedore_4": 42766193,
+        "Comedore_5": 30,
+        "Comedore_6": "Copa de Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.431631261216744,
+          -34.701982123684715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 45,
+        "Comedores": "Volver a Empezar",
+        "Comedore_1": "Ferreyra Angela",
+        "Comedore_3": "Luis Vernet 4215",
+        "Comedore_4": 42868516,
+        "Comedore_5": 50,
+        "Comedore_6": "Copa de Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.42304222847665,
+          -34.715978976131375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 46,
+        "Comedores": "Juntos Podemos",
+        "Comedore_1": "Rosa Gonzalez",
+        "Comedore_3": "Murature 4358",
+        "Comedore_4": 20052582,
+        "Comedore_5": 46,
+        "Comedore_6": "Copa de Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.434861662416445,
+          -34.701889159853444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47,
+        "Comedores": "MTR",
+        "Comedore_1": "Diaz Cecilia",
+        "Comedore_3": "20 de Septiembre 4188",
+        "Comedore_4": 42472522,
+        "Comedore_5": 60,
+        "Comedore_6": "Copa de Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.40263804250182,
+          -34.72045632138798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 48,
+        "Comedores": "Fuerza y Esperanza",
+        "Comedore_1": "Silva Lorena",
+        "Comedore_3": "Republica Arg 2387",
+        "Comedore_4": 1536323953,
+        "Comedore_5": 150,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4013972703903,
+          -34.672775670131124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 49,
+        "Comedores": "1 de Mayo B.Pampa",
+        "Comedore_1": "Rosmery/Orue fabian",
+        "Comedore_3": "Haban y las Vias",
+        "Comedore_4": 0,
+        "Comedore_5": 120,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.41873082614381,
+          -34.66645883948963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 51,
+        "Comedores": "Agrup Agustin Tosco",
+        "Comedore_1": "Miranda Braulio",
+        "Comedore_3": "3 de Febrero 3457",
+        "Comedore_4": 42672111,
+        "Comedore_5": 40,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.40707922931641,
+          -34.719956813043424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 52,
+        "Comedores": "Junta Vecinal por  Lanus",
+        "Comedore_1": "Gonzalez Liliana/ Tucu",
+        "Comedore_3": "Republica Arg 2347",
+        "Comedore_4": 1537354792,
+        "Comedore_5": 40,
+        "Comedore_6": "Comedor/ ESPERA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.401829360939765,
+          -34.672177458464716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 53,
+        "Comedores": "SoÃ¯Â¿Â½ando Por mas Sonrisas",
+        "Comedore_1": "Lorena Herrera",
+        "Comedore_3": "Magallanes 4893",
+        "Comedore_4": 1558082511,
+        "Comedore_5": 180,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4376780789242,
+          -34.69708233342363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 54,
+        "Comedores": "Elegidos de Eva Peron",
+        "Comedore_1": "Diego Zurita",
+        "Comedore_3": "Molinedo y Suarez",
+        "Comedore_4": 1524349325,
+        "Comedore_5": 180,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.442225218205664,
+          -34.692434182079396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 56,
+        "Comedores": "El Gringo",
+        "Comedore_1": "Carlos Aquino",
+        "Comedore_3": "Taborda 3333",
+        "Comedore_4": 1558608073,
+        "Comedore_5": 110,
+        "Comedore_6": "Merendero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.40505040100904,
+          -34.719788468722086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 57,
+        "Comedores": "Roca Negra",
+        "Comedore_1": "Lovato Valeria Elsa Rita",
+        "Comedore_3": "Camino 4431 y Mendez",
+        "Comedore_4": 1536282721,
+        "Comedore_5": 60,
+        "Comedore_6": "copa de leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.34227070125661,
+          -34.71951820625449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 58,
+        "Comedores": "La Torre/13 de Enero",
+        "Comedore_1": "Walter Bordagorry",
+        "Comedore_3": "Pirovano 1775",
+        "Comedore_4": 0,
+        "Comedore_5": 60,
+        "Comedore_6": "copa de leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.361556148426615,
+          -34.725254652506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 60,
+        "Comedores": "La Semillita MTD",
+        "Comedore_1": "Lasarte Esther Celia",
+        "Comedore_3": "Klosterman 974",
+        "Comedore_4": 1536282721,
+        "Comedore_5": 60,
+        "Comedore_6": "copa de leche/Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.34615122786045,
+          -34.72635872151465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 62,
+        "Comedores": "La Maquinita",
+        "Comedore_1": "Ana Romero",
+        "Comedore_3": "Rodriguez y Madariaga",
+        "Comedore_4": 0,
+        "Comedore_5": 80,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.371367021367135,
+          -34.706498359320314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 65,
+        "Comedores": "HOGAR  (Refugio Maria y Jose)",
+        "Comedore_1": "Mellia Cecilia",
+        "Comedore_3": "Luis Vernet 3561",
+        "Comedore_4": 42676716,
+        "Comedore_5": 20,
+        "Comedore_6": "copa de leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.41486868711443,
+          -34.71135293697469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 66,
+        "Comedores": "C.C Nueva Esperanza",
+        "Comedore_1": "Zaballa Veronica",
+        "Comedore_3": "Canada 3733",
+        "Comedore_4": 1552288414,
+        "Comedore_5": 70,
+        "Comedore_6": "copa de leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.42240622422014,
+          -34.70343548829623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 69,
+        "Comedores": "Barrio Obrero",
+        "Comedore_1": "Mario Roberto Goncebate",
+        "Comedore_3": "Bustamente 2609",
+        "Comedore_4": 0,
+        "Comedore_5": 60,
+        "Comedore_6": "Copa de leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.361216154268185,
+          -34.70414895773955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 70,
+        "Comedores": "Iglesia La Buena Mano de Dios",
+        "Comedore_1": "laura Susana Rinaldi/ Lau Lopez",
+        "Comedore_3": "condarco y Ituzaigo",
+        "Comedore_4": 0,
+        "Comedore_5": 60,
+        "Comedore_6": "copa de leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.35636080868247,
+          -34.72978309598273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 71,
+        "Comedores": "Parroquia San Miguel",
+        "Comedore_1": "Iris Gullas/Juan Carlos Medina",
+        "Comedore_3": "Guarnes 3200 y Molinedo",
+        "Comedore_4": 0,
+        "Comedore_5": 70,
+        "Comedore_6": "copa leche Solo Sabados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.42591983877458,
+          -34.68098667419909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 72,
+        "Comedores": "San Jorge",
+        "Comedore_1": "Barrera Silvia",
+        "Comedore_3": "Oliden 4228",
+        "Comedore_4": 0,
+        "Comedore_5": 70,
+        "Comedore_6": "Comedor/Copa Leche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.43426044496514,
+          -34.6969463401131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 73,
+        "Comedores": "Casa del NiÃ¯Â¿Â½o",
+        "Comedore_1": "Jose Gonzalez/Sabrina",
+        "Comedore_3": "Marraspin 3540",
+        "Comedore_4": 0,
+        "Comedore_5": 40,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.40460856301431,
+          -34.72536267573123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 67,
+        "Comedores": "Manos a la obra ( Barrio de pie )",
+        "Comedore_1": "MuÃ¯Â¿Â½oz Sonia Estela",
+        "Comedore_3": "warnes 3682",
+        "Comedore_4": 0,
+        "Comedore_5": 70,
+        "Comedore_6": "comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.42786316934612,
+          -34.67789789802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 74,
+        "Comedores": "Hogar Nuestro Sol",
+        "Comedore_1": "Tamara PeÃ¯Â¿Â½a/Yanina/Tiziana",
+        "Comedore_3": "Tacuari 1755",
+        "Comedore_4": 0,
+        "Comedore_5": 14,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.41070560302709,
+          -34.6921644582255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 76,
+        "Comedores": "HOGAR  Maria Imaculada",
+        "Comedore_1": "Hermana Jolanda",
+        "Comedore_3": "Oliden 2050",
+        "Comedore_4": 42096301,
+        "Comedore_5": 30,
+        "Comedore_6": "Comedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.415196148898076,
+          -34.686333523689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "Comedores": null,
+        "Comedore_1": null,
+        "Comedore_3": null,
+        "Comedore_4": null,
+        "Comedore_5": null,
+        "Comedore_6": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.430209701440155,
+          -34.69719186331449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "Comedores": null,
+        "Comedore_1": null,
+        "Comedore_3": null,
+        "Comedore_4": null,
+        "Comedore_5": null,
+        "Comedore_6": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.44148982102772,
+          -34.693578161445984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "Comedores": null,
+        "Comedore_1": null,
+        "Comedore_3": null,
+        "Comedore_4": null,
+        "Comedore_5": null,
+        "Comedore_6": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4420267968074,
+          -34.68416657244305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 55,
+        "Comedores": null,
+        "Comedore_1": null,
+        "Comedore_3": null,
+        "Comedore_4": null,
+        "Comedore_5": null,
+        "Comedore_6": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.44167123176412,
+          -34.68460195821034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 59,
+        "Comedores": null,
+        "Comedore_1": null,
+        "Comedore_3": null,
+        "Comedore_4": null,
+        "Comedore_5": null,
+        "Comedore_6": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.34850774810065,
+          -34.72423113357064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 50,
+        "Comedores": null,
+        "Comedore_1": null,
+        "Comedore_3": null,
+        "Comedore_4": null,
+        "Comedore_5": null,
+        "Comedore_6": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.403437493370845,
+          -34.72076229065526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 61,
+        "Comedores": null,
+        "Comedore_1": null,
+        "Comedore_3": null,
+        "Comedore_4": null,
+        "Comedore_5": null,
+        "Comedore_6": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.34085441753747,
+          -34.725426360687386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 63,
+        "Comedores": null,
+        "Comedore_1": null,
+        "Comedore_3": null,
+        "Comedore_4": null,
+        "Comedore_5": null,
+        "Comedore_6": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.43241785850616,
+          -34.673537447763124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 64,
+        "Comedores": null,
+        "Comedore_1": null,
+        "Comedore_3": null,
+        "Comedore_4": null,
+        "Comedore_5": null,
+        "Comedore_6": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.44433796958878,
+          -34.68752267106591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "Comedores": null,
+        "Comedore_1": null,
+        "Comedore_3": null,
+        "Comedore_4": null,
+        "Comedore_5": null,
+        "Comedore_6": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.44464999605533,
+          -34.68701472100408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 75,
+        "Comedores": null,
+        "Comedore_1": null,
+        "Comedore_3": null,
+        "Comedore_4": null,
+        "Comedore_5": null,
+        "Comedore_6": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.44529219006214,
+          -34.688625648343034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -58.3966050331063,
+              -34.6711031982354
+            ],
+            [
+              -58.4032223781585,
+              -34.666000877007
+            ],
+            [
+              -58.4064579070484,
+              -34.6634898479852
+            ],
+            [
+              -58.4025093129473,
+              -34.6597951662604
+            ],
+            [
+              -58.4032480304043,
+              -34.6597943754731
+            ],
+            [
+              -58.4039451907434,
+              -34.6598051342995
+            ],
+            [
+              -58.4044092053691,
+              -34.6598872069692
+            ],
+            [
+              -58.4052453125922,
+              -34.6600528056117
+            ],
+            [
+              -58.406126852447,
+              -34.6602455709884
+            ],
+            [
+              -58.4066683913755,
+              -34.6602952536132
+            ],
+            [
+              -58.4072648418182,
+              -34.66030717557
+            ],
+            [
+              -58.4077028072747,
+              -34.6602946791042
+            ],
+            [
+              -58.4082733321255,
+              -34.6601876564392
+            ],
+            [
+              -58.4086644457224,
+              -34.6600139061313
+            ],
+            [
+              -58.4089373435676,
+              -34.6599133036301
+            ],
+            [
+              -58.4093538178793,
+              -34.6597426171153
+            ],
+            [
+              -58.4097780750457,
+              -34.6595081993601
+            ],
+            [
+              -58.4104925769064,
+              -34.6592350177578
+            ],
+            [
+              -58.4115819836594,
+              -34.6589115220612
+            ],
+            [
+              -58.4125072812538,
+              -34.6587910632216
+            ],
+            [
+              -58.4130457147496,
+              -34.6587643859946
+            ],
+            [
+              -58.4135839795692,
+              -34.6588194713106
+            ],
+            [
+              -58.4143492874244,
+              -34.6589385122267
+            ],
+            [
+              -58.4157451472401,
+              -34.6593231099179
+            ],
+            [
+              -58.4172977876517,
+              -34.6597769264428
+            ],
+            [
+              -58.4182458019017,
+              -34.6600913515801
+            ],
+            [
+              -58.4188929189064,
+              -34.6602535897177
+            ],
+            [
+              -58.4200232479543,
+              -34.6605954906098
+            ],
+            [
+              -58.4209775965104,
+              -34.6609180636649
+            ],
+            [
+              -58.4220125468326,
+              -34.6614876460129
+            ],
+            [
+              -58.4227623056975,
+              -34.661731822779
+            ],
+            [
+              -58.4232323836713,
+              -34.6619591730615
+            ],
+            [
+              -58.4241674870932,
+              -34.6625588881065
+            ],
+            [
+              -58.4250111700619,
+              -34.6631189473821
+            ],
+            [
+              -58.4252290656474,
+              -34.6632831532337
+            ],
+            [
+              -58.4254074979499,
+              -34.6634213913275
+            ],
+            [
+              -58.4260865646527,
+              -34.6640844321162
+            ],
+            [
+              -58.4270780487815,
+              -34.6650279910909
+            ],
+            [
+              -58.4274398167087,
+              -34.6654166455536
+            ],
+            [
+              -58.427989023533,
+              -34.6662263758046
+            ],
+            [
+              -58.4285936604883,
+              -34.6669611252071
+            ],
+            [
+              -58.4305427994069,
+              -34.6692828036842
+            ],
+            [
+              -58.4312499882553,
+              -34.6702028978329
+            ],
+            [
+              -58.4323824905697,
+              -34.6715057630905
+            ],
+            [
+              -58.4346137858397,
+              -34.6741233255066
+            ],
+            [
+              -58.4357329109849,
+              -34.6754471884681
+            ],
+            [
+              -58.439050898387,
+              -34.6793808236515
+            ],
+            [
+              -58.4391793837812,
+              -34.6795339098454
+            ],
+            [
+              -58.439323313603,
+              -34.6797006506409
+            ],
+            [
+              -58.4393726170336,
+              -34.6797603112771
+            ],
+            [
+              -58.4394234036296,
+              -34.6798197840667
+            ],
+            [
+              -58.4394236678942,
+              -34.679820096682
+            ],
+            [
+              -58.4394793095917,
+              -34.6798863109742
+            ],
+            [
+              -58.4396626424275,
+              -34.6801016995411
+            ],
+            [
+              -58.4398349531422,
+              -34.680306162408
+            ],
+            [
+              -58.4398497623598,
+              -34.6803262249874
+            ],
+            [
+              -58.4400311514089,
+              -34.6805358346945
+            ],
+            [
+              -58.4402554758527,
+              -34.6808002769759
+            ],
+            [
+              -58.4407450151149,
+              -34.6813771249142
+            ],
+            [
+              -58.4413395917105,
+              -34.6820843510129
+            ],
+            [
+              -58.4418038446029,
+              -34.682641201532
+            ],
+            [
+              -58.4469769103298,
+              -34.6887222968584
+            ],
+            [
+              -58.4374234249172,
+              -34.7012516544308
+            ],
+            [
+              -58.432549007829,
+              -34.70756240463
+            ],
+            [
+              -58.4305484216396,
+              -34.7102050694948
+            ],
+            [
+              -58.4269921325903,
+              -34.7147950782121
+            ],
+            [
+              -58.4245485439283,
+              -34.717991328751
+            ],
+            [
+              -58.4179702793097,
+              -34.7265338797757
+            ],
+            [
+              -58.4133660442314,
+              -34.7325514081645
+            ],
+            [
+              -58.4131724212172,
+              -34.732812929257
+            ],
+            [
+              -58.3946876812021,
+              -34.7357519892394
+            ],
+            [
+              -58.3901551440643,
+              -34.7365298444589
+            ],
+            [
+              -58.3861418297861,
+              -34.7371072568051
+            ],
+            [
+              -58.380085627356,
+              -34.7388302039205
+            ],
+            [
+              -58.3749831114901,
+              -34.7429836863912
+            ],
+            [
+              -58.3718880799166,
+              -34.7413276375904
+            ],
+            [
+              -58.3718014388171,
+              -34.7414275119741
+            ],
+            [
+              -58.3702398570322,
+              -34.7426654579607
+            ],
+            [
+              -58.366792166097,
+              -34.7454406822933
+            ],
+            [
+              -58.3666689233561,
+              -34.74553933201
+            ],
+            [
+              -58.3646710948216,
+              -34.7445095998292
+            ],
+            [
+              -58.3619911826293,
+              -34.7431306186888
+            ],
+            [
+              -58.3601812435056,
+              -34.7421915126647
+            ],
+            [
+              -58.3561057804432,
+              -34.7400918994886
+            ],
+            [
+              -58.3529231906658,
+              -34.7399827284935
+            ],
+            [
+              -58.3474753416338,
+              -34.7398038129101
+            ],
+            [
+              -58.3452969687352,
+              -34.737818827399
+            ],
+            [
+              -58.344261118275,
+              -34.7368779050235
+            ],
+            [
+              -58.3438912154083,
+              -34.7365437957655
+            ],
+            [
+              -58.3432411894375,
+              -34.7359576455771
+            ],
+            [
+              -58.3428505163719,
+              -34.7355970987742
+            ],
+            [
+              -58.3422384093258,
+              -34.7350382439733
+            ],
+            [
+              -58.3417865870305,
+              -34.7346239408544
+            ],
+            [
+              -58.3411857733229,
+              -34.734078798957
+            ],
+            [
+              -58.3384074670396,
+              -34.7315558535314
+            ],
+            [
+              -58.3334186710453,
+              -34.7270121840618
+            ],
+            [
+              -58.3454697485642,
+              -34.716517827162
+            ],
+            [
+              -58.3508285279176,
+              -34.7119211171113
+            ],
+            [
+              -58.3639203912821,
+              -34.7005256029134
+            ],
+            [
+              -58.3699709024292,
+              -34.6953382021016
+            ],
+            [
+              -58.3781034751904,
+              -34.6882699841405
+            ],
+            [
+              -58.3796008921007,
+              -34.6895223217528
+            ],
+            [
+              -58.382478309294,
+              -34.6873300022204
+            ],
+            [
+              -58.3845252440345,
+              -34.685762848197
+            ],
+            [
+              -58.3863514472228,
+              -34.6844566155944
+            ],
+            [
+              -58.3908478770134,
+              -34.6807673407236
+            ],
+            [
+              -58.3919159519489,
+              -34.6797806713842
+            ],
+            [
+              -58.3920174529911,
+              -34.6797317247078
+            ],
+            [
+              -58.3935001743921,
+              -34.6782510936995
+            ],
+            [
+              -58.3936676391353,
+              -34.6780776123095
+            ],
+            [
+              -58.3970548469851,
+              -34.6745610238474
+            ],
+            [
+              -58.3946855862087,
+              -34.6724654487743
+            ],
+            [
+              -58.3965009965585,
+              -34.6711860638827
+            ],
+            [
+              -58.3966050331063,
+              -34.6711031982354
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ogc_fid": 1,
+        "nombre": "Lanus",
+        "partido": 25,
+        "nomencla": "025",
+        "zona": 7,
+        "fecha": "2011-09-12 00:00:00",
+        "islas": 0,
+        "sup_km2": 50.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -58.3966050331063,
+              -34.6711031982354
+            ],
+            [
+              -58.4032223781585,
+              -34.666000877007
+            ],
+            [
+              -58.4064579070484,
+              -34.6634898479852
+            ],
+            [
+              -58.4025093129473,
+              -34.6597951662604
+            ],
+            [
+              -58.4032480304043,
+              -34.6597943754731
+            ],
+            [
+              -58.4039451907434,
+              -34.6598051342995
+            ],
+            [
+              -58.4044092053691,
+              -34.6598872069692
+            ],
+            [
+              -58.4052453125922,
+              -34.6600528056117
+            ],
+            [
+              -58.406126852447,
+              -34.6602455709884
+            ],
+            [
+              -58.4066683913755,
+              -34.6602952536132
+            ],
+            [
+              -58.4072648418182,
+              -34.66030717557
+            ],
+            [
+              -58.4077028072747,
+              -34.6602946791042
+            ],
+            [
+              -58.4082733321255,
+              -34.6601876564392
+            ],
+            [
+              -58.4086644457224,
+              -34.6600139061313
+            ],
+            [
+              -58.4089373435676,
+              -34.6599133036301
+            ],
+            [
+              -58.4093538178793,
+              -34.6597426171153
+            ],
+            [
+              -58.4097780750457,
+              -34.6595081993601
+            ],
+            [
+              -58.4104925769064,
+              -34.6592350177578
+            ],
+            [
+              -58.4115819836594,
+              -34.6589115220612
+            ],
+            [
+              -58.4125072812538,
+              -34.6587910632216
+            ],
+            [
+              -58.4130457147496,
+              -34.6587643859946
+            ],
+            [
+              -58.4135839795692,
+              -34.6588194713106
+            ],
+            [
+              -58.4143492874244,
+              -34.6589385122267
+            ],
+            [
+              -58.4157451472401,
+              -34.6593231099179
+            ],
+            [
+              -58.4172977876517,
+              -34.6597769264428
+            ],
+            [
+              -58.4182458019017,
+              -34.6600913515801
+            ],
+            [
+              -58.4188929189064,
+              -34.6602535897177
+            ],
+            [
+              -58.4200232479543,
+              -34.6605954906098
+            ],
+            [
+              -58.4209775965104,
+              -34.6609180636649
+            ],
+            [
+              -58.4220125468326,
+              -34.6614876460129
+            ],
+            [
+              -58.4227623056975,
+              -34.661731822779
+            ],
+            [
+              -58.4232323836713,
+              -34.6619591730615
+            ],
+            [
+              -58.4241674870932,
+              -34.6625588881065
+            ],
+            [
+              -58.4250111700619,
+              -34.6631189473821
+            ],
+            [
+              -58.4252290656474,
+              -34.6632831532337
+            ],
+            [
+              -58.4254074979499,
+              -34.6634213913275
+            ],
+            [
+              -58.4260865646527,
+              -34.6640844321162
+            ],
+            [
+              -58.4270780487815,
+              -34.6650279910909
+            ],
+            [
+              -58.4274398167087,
+              -34.6654166455536
+            ],
+            [
+              -58.427989023533,
+              -34.6662263758046
+            ],
+            [
+              -58.4285936604883,
+              -34.6669611252071
+            ],
+            [
+              -58.4305427994069,
+              -34.6692828036842
+            ],
+            [
+              -58.4312499882553,
+              -34.6702028978329
+            ],
+            [
+              -58.4323824905697,
+              -34.6715057630905
+            ],
+            [
+              -58.4346137858397,
+              -34.6741233255066
+            ],
+            [
+              -58.4357329109849,
+              -34.6754471884681
+            ],
+            [
+              -58.439050898387,
+              -34.6793808236515
+            ],
+            [
+              -58.4391793837812,
+              -34.6795339098454
+            ],
+            [
+              -58.439323313603,
+              -34.6797006506409
+            ],
+            [
+              -58.4393726170336,
+              -34.6797603112771
+            ],
+            [
+              -58.4394234036296,
+              -34.6798197840667
+            ],
+            [
+              -58.4394236678942,
+              -34.679820096682
+            ],
+            [
+              -58.4394793095917,
+              -34.6798863109742
+            ],
+            [
+              -58.4396626424275,
+              -34.6801016995411
+            ],
+            [
+              -58.4398349531422,
+              -34.680306162408
+            ],
+            [
+              -58.4398497623598,
+              -34.6803262249874
+            ],
+            [
+              -58.4400311514089,
+              -34.6805358346945
+            ],
+            [
+              -58.4402554758527,
+              -34.6808002769759
+            ],
+            [
+              -58.4407450151149,
+              -34.6813771249142
+            ],
+            [
+              -58.4413395917105,
+              -34.6820843510129
+            ],
+            [
+              -58.4418038446029,
+              -34.682641201532
+            ],
+            [
+              -58.4469769103298,
+              -34.6887222968584
+            ],
+            [
+              -58.4374234249172,
+              -34.7012516544308
+            ],
+            [
+              -58.432549007829,
+              -34.70756240463
+            ],
+            [
+              -58.4305484216396,
+              -34.7102050694948
+            ],
+            [
+              -58.4269921325903,
+              -34.7147950782121
+            ],
+            [
+              -58.4245485439283,
+              -34.717991328751
+            ],
+            [
+              -58.4179702793097,
+              -34.7265338797757
+            ],
+            [
+              -58.4133660442314,
+              -34.7325514081645
+            ],
+            [
+              -58.4131724212172,
+              -34.732812929257
+            ],
+            [
+              -58.3946876812021,
+              -34.7357519892394
+            ],
+            [
+              -58.3901551440643,
+              -34.7365298444589
+            ],
+            [
+              -58.3861418297861,
+              -34.7371072568051
+            ],
+            [
+              -58.380085627356,
+              -34.7388302039205
+            ],
+            [
+              -58.3749831114901,
+              -34.7429836863912
+            ],
+            [
+              -58.3718880799166,
+              -34.7413276375904
+            ],
+            [
+              -58.3718014388171,
+              -34.7414275119741
+            ],
+            [
+              -58.3702398570322,
+              -34.7426654579607
+            ],
+            [
+              -58.366792166097,
+              -34.7454406822933
+            ],
+            [
+              -58.3666689233561,
+              -34.74553933201
+            ],
+            [
+              -58.3646710948216,
+              -34.7445095998292
+            ],
+            [
+              -58.3619911826293,
+              -34.7431306186888
+            ],
+            [
+              -58.3601812435056,
+              -34.7421915126647
+            ],
+            [
+              -58.3561057804432,
+              -34.7400918994886
+            ],
+            [
+              -58.3529231906658,
+              -34.7399827284935
+            ],
+            [
+              -58.3474753416338,
+              -34.7398038129101
+            ],
+            [
+              -58.3452969687352,
+              -34.737818827399
+            ],
+            [
+              -58.344261118275,
+              -34.7368779050235
+            ],
+            [
+              -58.3438912154083,
+              -34.7365437957655
+            ],
+            [
+              -58.3432411894375,
+              -34.7359576455771
+            ],
+            [
+              -58.3428505163719,
+              -34.7355970987742
+            ],
+            [
+              -58.3422384093258,
+              -34.7350382439733
+            ],
+            [
+              -58.3417865870305,
+              -34.7346239408544
+            ],
+            [
+              -58.3411857733229,
+              -34.734078798957
+            ],
+            [
+              -58.3384074670396,
+              -34.7315558535314
+            ],
+            [
+              -58.3334186710453,
+              -34.7270121840618
+            ],
+            [
+              -58.3454697485642,
+              -34.716517827162
+            ],
+            [
+              -58.3508285279176,
+              -34.7119211171113
+            ],
+            [
+              -58.3639203912821,
+              -34.7005256029134
+            ],
+            [
+              -58.3699709024292,
+              -34.6953382021016
+            ],
+            [
+              -58.3781034751904,
+              -34.6882699841405
+            ],
+            [
+              -58.3796008921007,
+              -34.6895223217528
+            ],
+            [
+              -58.382478309294,
+              -34.6873300022204
+            ],
+            [
+              -58.3845252440345,
+              -34.685762848197
+            ],
+            [
+              -58.3863514472228,
+              -34.6844566155944
+            ],
+            [
+              -58.3908478770134,
+              -34.6807673407236
+            ],
+            [
+              -58.3919159519489,
+              -34.6797806713842
+            ],
+            [
+              -58.3920174529911,
+              -34.6797317247078
+            ],
+            [
+              -58.3935001743921,
+              -34.6782510936995
+            ],
+            [
+              -58.3936676391353,
+              -34.6780776123095
+            ],
+            [
+              -58.3970548469851,
+              -34.6745610238474
+            ],
+            [
+              -58.3946855862087,
+              -34.6724654487743
+            ],
+            [
+              -58.3965009965585,
+              -34.6711860638827
+            ],
+            [
+              -58.3966050331063,
+              -34.6711031982354
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ogc_fid": 1,
+        "nombre": "Lanus",
+        "partido": 25,
+        "nomencla": "025",
+        "zona": 7,
+        "fecha": "2011-09-12 00:00:00",
+        "islas": 0,
+        "sup_km2": 50.3
+      }
+    }
+  ]
+}
