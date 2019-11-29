@@ -1209,6 +1209,305 @@
           -34.7204023829808
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 133
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3993774652481,
+          -34.73371720518336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 134
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.41855525970458,
+          -34.71628405344401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 135
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.40754210948944,
+          -34.724833547011094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 136
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.34462285041809,
+          -34.72217487709242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 137
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.433184027671814,
+          -34.70457611858832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 138
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.35284113883972,
+          -34.712963666267434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4250032901764,
+          -34.70433797390415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 142
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.432492017745965,
+          -34.681274383587116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 143
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.354788422584534,
+          -34.721764825863055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 144
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.34038496017456,
+          -34.731781839418026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 145
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.43398869037628,
+          -34.690484711926224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 146
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.42490136623382,
+          -34.67889223536029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 148
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.41600716114044,
+          -34.72385474315458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.42262148857116,
+          -34.670187988984374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 159
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.36429417133331,
+          -34.702384279597645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 160
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.409419655799866,
+          -34.67168802571849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 161
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38546216487885,
+          -34.732222701209466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 162
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.42379629611969,
+          -34.69011861210887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 163
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.39501082897187,
+          -34.72432210139661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 165
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.395928144454956,
+          -34.6737218556701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 166
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.389286994934075,
+          -34.68708830205711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.37239980697632,
+          -34.73086043068026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 170
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.430410623550415,
+          -34.674498315537775
+        ]
+      }
     }
   ]
 }
