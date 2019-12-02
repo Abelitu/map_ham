@@ -1979,7 +1979,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": 243
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
