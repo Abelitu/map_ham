@@ -2132,6 +2132,32 @@
           -34.734109563104504
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 271
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.39447975158691,
+          -34.72568888864035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 272
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.42949867248535,
+          -34.698908971195706
+        ]
+      }
     }
   ]
 }
